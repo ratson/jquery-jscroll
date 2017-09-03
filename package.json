@@ -1,6 +1,6 @@
 {
   "name": "jquery-jscroll",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "jQuery plugin for infinite scrolling / auto-paging.",
   "main": "jquery.jscroll.js",
   "scripts": {
