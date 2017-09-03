@@ -10,7 +10,7 @@
  * @preserve
  * @Supports AMD pattern
  */
-(function($, factory){
+(function($, factory) {
     'use strict';
     if (typeof define === 'function' && define.amd) {
         return factory($);

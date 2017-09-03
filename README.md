@@ -5,20 +5,12 @@
 [![Bower version](https://img.shields.io/bower/v/jscroll.svg)](https://github.com/pklauzinski/jscroll)
 [![Join the chat at https://gitter.im/pklauzinski/jscroll](https://badges.gitter.im/pklauzinski/jscroll.svg)](https://gitter.im/pklauzinski/jscroll?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Official site at [jscroll.com](http://jscroll.com/).
+## This is a fork
 
-* Copyright &copy; 2011-2017, [Philip Klauzinski](http://webtopian.com)
-* Current Version: 2.3.7
-* Dual licensed under the MIT and GPL Version 2 licenses.
-* http://jscroll.com/#license
-* http://www.opensource.org/licenses/mit-license.php
-* http://www.gnu.org/licenses/gpl-2.0.html
+Fork of [jscroll](https://github.com/pklauzinski/jscroll) for [adding AMD support](https://github.com/pklauzinski/jscroll/pull/124).
 
-Requires jQuery v1.4.3+
+All credit goes to the orignal author ([@pklauzinski](https://github.com/pklauzinski)) and the PR author ([@gs-rpal](https://github.com/gs-rpal)).
 
-## Facebook Page
-
-Follow us on Facebook for commit updates: http://www.facebook.com/jScroll.Infinite.Scrolling
 
 ## Usage
 

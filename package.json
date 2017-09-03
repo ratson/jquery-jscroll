@@ -1,15 +1,12 @@
 {
-  "name": "jscroll",
-  "version": "2.3.9",
+  "name": "jquery-jscroll",
+  "version": "0.0.0",
   "description": "jQuery plugin for infinite scrolling / auto-paging.",
   "main": "jquery.jscroll.js",
   "scripts": {
     "test": "grunt eslint"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pklauzinski/jscroll.git"
-  },
+  "repository": "ratson/jquery-jscroll",
   "keywords": [
     "jscroll",
     "infinite-scroll",
@@ -21,20 +18,11 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "author": {
-    "name": "Philip Klauzinski",
-    "url": "http://webtopian.com"
-  },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pklauzinski/jscroll/issues"
-  },
-  "homepage": "http://jscroll.com",
-  "dependencies": {
-    "jquery": "^1.7.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "^1.0.1",
-    "gruntify-eslint": "^3.1.0"
+    "gruntify-eslint": "^4.0.0",
+    "jquery": "^3.2.1"
   }
 }
